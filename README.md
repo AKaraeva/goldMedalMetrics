@@ -1,7 +1,7 @@
-**Gold Medal Metrics**
+# Gold Medal Metrics
 
 
-   **Project Overview**
+   ## Project Overview
 
 Gold Medal Metrics is an Olympic metrics reporting web application built using Spring Data JPA. This application allows users to:
 
@@ -16,7 +16,7 @@ Gold Medal Metrics is an Olympic metrics reporting web application built using S
  - Sort the list of Olympic wins by any of these attributes.
   
 
-**Features**
+### Features
 
   - Country List View
       Displays a list of countries with their population, GDP, and number of Olympic gold medals.
@@ -34,13 +34,13 @@ Gold Medal Metrics is an Olympic metrics reporting web application built using S
 
 To get a local copy up and running, follow these simple steps:
 
-**Prerequisites**
+## Prerequisites
 
  - Java Development Kit (JDK)
  - Spring Boot
  - Maven or Gradle
 
-**Installation**
+## Installation
 
 1. Clone the repository:
     
